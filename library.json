@@ -1,0 +1,9 @@
+{
+    "name": "consthash",
+    "build": {
+        "srcFilter": [
+            "+<include/>"
+        ],
+        "includeDir": "include"
+    }
+}
